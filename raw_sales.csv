@@ -1,0 +1,361 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price
+1220,04-19-2024,James Khumalo,Resistance Bands,Fitness,6,15.71
+1024,24/04/2024,Zanele Miller,Coffee Mug,KITCHEN,3,$10.36 
+1070,05-06-2024,Patricia Molefe,Wireless Mouse,ELECTRONICS,2,15.6
+1049,03-13-2024,James Garcia,Mechanical Keyboard,Electronics,6,46.89
+1092,31/01/2024,Kagiso Wilson,Ballpoint Pen (Pack of 10),stationery,5,5.21
+1130,31 Mar 2024,Mary Wilson,Notebook,Stationery,5,3.36
+1003,28 Jun 2024,Jennifer Mahlangu,Backpack,Accessories,5,41.47
+1310,2024-03-13,Susan Davis,Water Bottle,KITCHEN,5,12.11
+1347,25/03/2024,Robert Dlamini,Wireless Mouse,Electronics,6,16.47
+1149,23 Mar 2024,Lerato Jones,Laptop Stand,Electronics,1,22.68
+1140,05 Jan 2024,James Dlamini,Notebook,stationery,5,3.47
+1119,18/06/2024,Bongani Smith,Mechanical Keyboard,electronics,1,44.33
+1093,26/04/2024,Sipho Davis,Laptop Stand,ELECTRONICS,5,22.83
+1157,27/03/2024,Bongani Khumalo,Backpack,Accessories,2,41.32
+1131,03/05/2024,Linda Nkosi,Backpack,accessories,5,41.04
+1006,06-09-2024,Andile Davis,Resistance Bands,Fitness, 6 ,15.23
+1229,04-18-2024,James Ndlovu,Wireless Mouse,Electronics,1,15.3
+1348,07/02/2024,Linda Zulu,Wireless Mouse,Electronics ,3,15.79
+1214,25 Mar 2024,Linda Jones,Notebook,Stationery ,1,3.67
+1272,23 Feb 2024,Susan Williams,Wireless Earbuds,ELECTRONICS,4,57.83
+1169,2024-05-19,Sipho Molefe,Coffee Mug,Kitchen,1,10.47
+1164,2024-02-27,Thabo Brown,Office Chair,home,6,133.78
+1019,04-12-2024,Amahle Zulu,Desk Lamp,HOME,4,18.23
+1144,14/06/2024,Jennifer Brown,Resistance Bands,FITNESS ,2,14.5
+1163,04-25-2024,John Mokoena,Resistance Bands,Fitness,1,14.8
+1316,01-17-2024,Zanele Garcia,Backpack,Accessories,1,41.69
+1303,06-16-2024,David Williams,Mechanical Keyboard,ELECTRONICS,3,$46.18 
+1148,01 Jun 2024,Amahle Ndlovu,Water Bottle,KITCHEN,6,12.44
+1041,04-27-2024,Susan Garcia,Laptop Stand,Electronics, 2 ,21.32
+1064,30/01/2024,Susan Brown,Wireless Earbuds,Electronics , 5 ,58.86
+1279,01-18-2024,Mary Brown,Office Chair,Home,1,131.91
+1030,07/03/2024,Thabo Garcia,Sticky Notes,stationery,3,2.8
+1075,02-19-2024,Jennifer Nkosi,Mechanical Keyboard,Electronics,2,46.45
+1256,24 Feb 2024,David Johnson,Laptop Stand,Electronics,1,21.52
+1120,21/05/2024,Andile Davis,Mechanical Keyboard,Electronics,2,43.9
+1101,24 Jan 2024,Linda Brown,Wireless Earbuds,ELECTRONICS,4,$58.79 
+1020,28/02/2024,John Williams,Coffee Mug,kitchen,6,9.72
+1017,2024-05-25,James Molefe,Laptop Stand,Electronics ,1,22.07
+1076,05-21-2024,Robert Molefe,Wireless Mouse,Electronics ,1,16.11
+1046,03-17-2024,Zanele Dlamini,Wireless Earbuds,Electronics ,4,60.32
+1245,26 Jan 2024,Thabo Davis,Ballpoint Pen (Pack of 10),Stationery ,3,5.01
+1274,01-10-2024,Thandiwe Williams,Coffee Mug,KITCHEN,1,10.15
+1191,23 Feb 2024,Bongani Smith,Backpack,accessories,4,40.17
+1105,2024-02-10,Amahle Nkosi,Coffee Mug,kitchen,5,10.45
+1291,2024-05-10,,Coffee Mug,Kitchen,3,10.31
+1326,19/05/2024,Robert Smith,Wireless Earbuds,Electronics, 4 ,60.24
+1257,2024-03-21,Michael Jones,USB-C Cable,electronics,6,9.38
+1288,2024-04-01,Kagiso Jones,Wireless Mouse,Electronics ,2,16.73
+1295,17/05/2024,Thabo Wilson,Water Bottle,KITCHEN,3,13.07
+1027,02-18-2024,Michael Johnson,USB-C Cable,Electronics,5,8.6
+1046,03-17-2024,Zanele Dlamini,Wireless Earbuds,Electronics ,4,60.32
+1264,2024-05-21,Bongani Dlamini,Office Chair,HOME, 4 ,128.87
+1090,2024-04-23,Michael Rodriguez,Backpack,accessories,5,39.14
+1044,2024-06-04,Sipho Davis,Notebook,Stationery , 3 ,3.48
+1121,07/02/2024,Thandiwe Rodriguez,Desk Lamp,home,2,19.44
+1302,2024-04-26,Zanele Davis,Ballpoint Pen (Pack of 10),,6,5.45
+1015,04/06/2024,Robert Nkosi,Coffee Mug,Kitchen,2,10.27
+1062,2024-06-15,Mary Smith,Laptop Stand,electronics,2,20.94
+1321,30/01/2024,Lerato Smith,Backpack,accessories,1,$38.04 
+1124,06-17-2024,Amahle Smith,Wireless Earbuds,Electronics,1,62.07
+1113,06-21-2024,Andile Khumalo,Office Chair,Home,6,124.9
+1273,09 Feb 2024,Sipho Williams,Backpack,accessories,4,39.91
+1201,03/04/2024,Michael Zulu,Coffee Mug,kitchen,4,9.54
+1195,08 Apr 2024,Jennifer Miller,Desk Lamp,Home,3,19.16
+1203,03-17-2024,Lerato Zulu,Wireless Earbuds,Electronics,5,60.37
+1137,22 Jun 2024,Lerato Wilson,Backpack,Accessories,1,$41.93 
+1168,01-01-2024,Jennifer Mokoena,Notebook,Stationery,2,3.35
+1123,01 May 2024,Naledi Zulu,Mechanical Keyboard,Electronics,5,45.52
+1034,03/06/2024,Thabo Davis,Desk Lamp,Home,6,18.31
+1110,16/04/2024,Michael Jones,Office Chair,home,5,128.25
+1270,26 Jun 2024,Andile Garcia,Wireless Earbuds,Electronics,3,61.89
+1250,09 May 2024,Naledi Johnson,Laptop Stand,Electronics ,5,22.95
+1152,2024-03-25,Thandiwe Khumalo,Mechanical Keyboard,electronics,3,47.1
+1165,30/04/2024,Kagiso Mahlangu,Sticky Notes,Stationery, 5 ,2.63
+1141,2024-04-13,Thabo Miller,Mechanical Keyboard,Electronics ,5,46.36
+1058,19/05/2024,Kagiso Garcia,Coffee Mug,KITCHEN,3,9.52
+1276,28/05/2024,Amahle Nkosi,Coffee Mug,Kitchen,4,10.17
+1307,07/04/2024,Robert Williams,USB-C Cable,ELECTRONICS,5,9.09
+1209,06-26-2024,Bongani Molefe,Backpack,accessories,2,39.11
+1097,07 Apr 2024,Robert Molefe,Wireless Earbuds,Electronics,1,62.78
+1236,05-27-2024,Andile Dlamini,Laptop Stand,electronics,2,21.22
+1051,2024-02-07,Linda Mokoena,Laptop Stand,Electronics,2,23.01
+1173,10/01/2024,Susan Nkosi,Desk Lamp,home,1,18.43
+1275,12 Jan 2024,Thabo Mokoena,Water Bottle,KITCHEN, 1 ,12.2
+1111,02-12-2024,Kagiso Wilson,Resistance Bands,Fitness,6,15.45
+1036,23 Apr 2024,Thandiwe Smith,Wireless Earbuds,Electronics, 1 ,62.29
+1127,16/06/2024,Zanele Mahlangu,Mechanical Keyboard,Electronics,2,46.99
+1269,03-17-2024,Bongani Davis,USB-C Cable,ELECTRONICS,4,9.41
+1007,2024-02-29,Sipho Rodriguez,Resistance Bands,Fitness,4,14.79
+1255,22 Jan 2024,Zanele Dlamini,USB-C Cable,,5,9.42
+1005,03-29-2024,Mary Mahlangu,Office Chair,home,5,$135.48 
+1032,18/01/2024,Naledi Wilson,Sticky Notes,Stationery ,2,2.76
+1200,05-20-2024,Bongani Brown,Yoga Mat,fitness,2,24.72
+1262,04-09-2024,Naledi Brown,Wireless Earbuds,ELECTRONICS, 1 ,58.84
+1186,2024-04-14,Robert Dlamini,Notebook,Stationery, 6 ,3.49
+1188,12/02/2024,Thabo Garcia,Desk Lamp,Home,3,18.79
+1249,2024-06-20,John Mokoena,Resistance Bands,Fitness,2,14.59
+1073,05-21-2024,Zanele Ndlovu,Ballpoint Pen (Pack of 10),Stationery,3,5.23
+1211,01 Feb 2024,Sipho Nkosi,Desk Lamp,home,2,18.35
+1189,02-20-2024,Robert Wilson,Desk Lamp,HOME,5,18.75
+1265,23/05/2024,Andile Zulu,Sticky Notes,stationery,2,2.66
+1065,2024-02-20,Andile Garcia,Notebook,Stationery,1,3.43
+1091,08/01/2024,,Mechanical Keyboard,Electronics, 5 ,45.08
+1040,20/06/2024,David Miller,Yoga Mat,Fitness,6,25.92
+1218,19 May 2024,Robert Zulu,Backpack,accessories,4,41.22
+1268,07 Jun 2024,Thabo Mahlangu,Resistance Bands,FITNESS ,3,15.47
+1156,27/02/2024,Robert Williams,Laptop Stand,Electronics,3,21.12
+1066,2024-05-24,Naledi Ndlovu,Yoga Mat,Fitness,4,23.91
+1008,2024-03-09,Bongani Miller,Backpack,Accessories,5,38.64
+1344,04-09-2024,Patricia Miller,Water Bottle,KITCHEN,2,12.88
+1320,04-26-2024,Mary Molefe,Ballpoint Pen (Pack of 10),Stationery ,5,5.07
+1197,05-29-2024,Mary Johnson,Laptop Stand,Electronics ,3,22.84
+1192,03 Mar 2024,Susan Mahlangu,Ballpoint Pen (Pack of 10),stationery,1,5.07
+1318,05-12-2024,Patricia Nkosi,Coffee Mug,Kitchen,2,10.36
+1063,2024-06-20,Andile Davis,Ballpoint Pen (Pack of 10),Stationery ,4,5.39
+1267,09 Jun 2024,Bongani Davis,Laptop Stand,ELECTRONICS,4,21.57
+1053,09 May 2024,Thandiwe Mahlangu,Water Bottle,Kitchen,2,12.47
+1178,06 Feb 2024,Mary Jones,Wireless Mouse,Electronics,1,16.22
+1117,05 May 2024,David Johnson,Resistance Bands,fitness,6,14.91
+1166,04 Jun 2024,Linda Wilson,Coffee Mug,KITCHEN,2,9.54
+1057,27 May 2024,Kagiso Smith,Resistance Bands,fitness,3,14.83
+1247,05-20-2024,David Molefe,Ballpoint Pen (Pack of 10),stationery,6,5.25
+1012,2024-01-13,Robert Miller,Yoga Mat,fitness,6,23.9
+1217,2024-03-15,John Wilson,USB-C Cable,Electronics ,5,9.38
+1162,22/01/2024,David Mahlangu,Desk Lamp,Home,5,18.63
+1328,2024-03-12,,USB-C Cable,Electronics,5,9.35
+1094,04-16-2024,Lerato Rodriguez,Yoga Mat,FITNESS ,,24.49
+1184,2024-02-27,Michael Jones,Coffee Mug,kitchen,2,9.52
+1323,03-22-2024,James Nkosi,Sticky Notes,Stationery ,1,2.86
+1114,05-23-2024,Bongani Garcia,Water Bottle,kitchen, 6 ,12.9
+1312,22/03/2024,Sipho Mokoena,Office Chair,Home,3,125.74
+1172,16/03/2024,Mary Davis,Wireless Mouse,Electronics ,1,15.69
+1238,2024-05-06,Naledi Khumalo,Coffee Mug,kitchen,5,9.91
+1330,03-07-2024,Sipho Dlamini,Desk Lamp,Home,3,18.25
+1126,24 Mar 2024,Bongani Zulu,Coffee Mug,KITCHEN,3,10.1
+1072,05 May 2024,John Williams,Backpack,accessories,3,40.76
+1080,2024-06-05,Michael Davis,Wireless Mouse,Electronics,3,15.44
+1078,14/01/2024,Robert Wilson,Backpack,Accessories,1,38.46
+1087,21 Apr 2024,James Molefe,Water Bottle,Kitchen,3,12.28
+1006,06-09-2024,Andile Davis,Resistance Bands,Fitness, 6 ,15.23
+1263,2024-02-03,Patricia Mokoena,Mechanical Keyboard,Electronics,4,45.56
+1254,2024-01-21,James Khumalo,Resistance Bands,FITNESS ,4,14.95
+1155,14 Jun 2024,Lerato Nkosi,Mechanical Keyboard,Electronics ,1,44.05
+1013,2024-03-05,Linda Ndlovu,Coffee Mug,Kitchen,3,9.83
+1350,06-15-2024,Patricia Ndlovu,Ballpoint Pen (Pack of 10),Stationery ,6,5.31
+1313,2024-05-30,John Rodriguez,Wireless Mouse,ELECTRONICS, 2 ,15.29
+1289,24 Jun 2024,Zanele Mahlangu,Notebook,Stationery,4,3.52
+1154,23 May 2024,Thabo Jones,Desk Lamp,HOME,6,19.59
+1283,04-03-2024,Michael Mahlangu,USB-C Cable,ELECTRONICS,1,9.32
+1037,04/04/2024,Zanele Jones,Resistance Bands,Fitness,1,15.59
+1104,06-12-2024,Amahle Rodriguez,Ballpoint Pen (Pack of 10),Stationery , 6 ,5.41
+1182,19 Jan 2024,Patricia Mahlangu,USB-C Cable,ELECTRONICS,1,9.41
+1206,23/06/2024,Mary Brown,USB-C Cable,electronics, 2 ,8.82
+1010,16 Jun 2024,Sipho Mahlangu,Laptop Stand,ELECTRONICS,2,21.44
+1224,06-04-2024,Zanele Ndlovu,Ballpoint Pen (Pack of 10),Stationery,4,5.41
+1213,28/01/2024,Jennifer Johnson,USB-C Cable,Electronics,6,8.74
+1125,2024-04-23,James Dlamini,Ballpoint Pen (Pack of 10),Stationery ,5,5.05
+1099,04-30-2024,Thabo Khumalo,Mechanical Keyboard,Electronics ,6,44.72
+1068,05-13-2024,Bongani Ndlovu,USB-C Cable,ELECTRONICS,4,9.28
+1241,04-25-2024,James Ndlovu,Sticky Notes,Stationery ,6,2.63
+1244,13 Mar 2024,Amahle Ndlovu,Yoga Mat,fitness,6,24.39
+1230,14/04/2024,Robert Mokoena,Desk Lamp,home,3,18.53
+1074,02-19-2024,Linda Ndlovu,Mechanical Keyboard,ELECTRONICS,6,44.21
+1167,2024-01-17,Kagiso Ndlovu,Ballpoint Pen (Pack of 10),stationery,1,5.29
+1346,20/03/2024,Kagiso Johnson,Coffee Mug,kitchen, 1 ,$10.09 
+1290,01-09-2024,Jennifer Ndlovu,Desk Lamp,home,3,18.67
+1339,24/04/2024,Mary Garcia,Desk Lamp,Home,6,18.58
+1278,03-30-2024,Thabo Mahlangu,USB-C Cable,Electronics ,2,8.85
+1177,31 Mar 2024,David Johnson,Wireless Mouse,electronics,1,15.84
+1146,06-09-2024,Robert Mahlangu,Resistance Bands,FITNESS ,1,15.19
+1208,21/03/2024,Amahle Ndlovu,Notebook,Stationery ,3,3.56
+1271,24/05/2024,Andile Ndlovu,Sticky Notes,stationery,2,2.76
+1107,06 Jan 2024,David Smith,Desk Lamp,HOME,5,19.27
+1029,31/01/2024,Andile Johnson,Notebook,stationery,5,3.56
+1231,21/01/2024,Naledi Brown,Notebook,Stationery,2,3.46
+1181,03-08-2024,Amahle Davis,Mechanical Keyboard,Electronics,5,47.39
+1258,04-09-2024,Sipho Jones,Water Bottle,Kitchen,6,12.5
+1160,13 Mar 2024,Lerato Zulu,Yoga Mat,Fitness,4,25.78
+1004,04-18-2024,David Jones,Wireless Earbuds,Electronics,2,59.01
+1118,06-24-2024,Thandiwe Nkosi,Mechanical Keyboard,Electronics ,1,44.09
+1335,2024-04-28,Robert Brown,Mechanical Keyboard,electronics, 1 ,46.78
+1071,03/01/2024,James Garcia,Coffee Mug,kitchen,6,10.05
+1336,04-12-2024,James Rodriguez,Resistance Bands,fitness, 1 ,14.34
+1237,03-17-2024,Mary Ndlovu,Notebook,stationery,5,3.64
+1314,08 May 2024,Zanele Khumalo,Backpack,,1,40.14
+1143,2024-02-13,Lerato Brown,Office Chair,HOME,5,135.27
+1234,05/01/2024,Michael Williams,Water Bottle,Kitchen,1,12.43
+1261,06-07-2024,Jennifer Williams,Mechanical Keyboard,electronics,1,44.95
+1333,2024-06-29,Michael Dlamini,Resistance Bands,FITNESS ,2,14.61
+1187,21/05/2024,Robert Mokoena,Sticky Notes,Stationery,5,2.63
+1082,24/06/2024,David Davis,Mechanical Keyboard,ELECTRONICS,4,44.25
+1067,17 Apr 2024,Linda Mokoena,Resistance Bands,fitness,3,15.48
+1299,2024-05-28,James Mahlangu,Office Chair,HOME,6,$128.15 
+1233,04-27-2024,Robert Rodriguez,Laptop Stand,Electronics ,2,22.5
+1161,2024-03-05,Kagiso Nkosi,Resistance Bands,Fitness,5,15.31
+1308,24/02/2024,Zanele Mahlangu,Wireless Earbuds,Electronics ,2,57.59
+1112,27 Feb 2024,Thandiwe Nkosi,USB-C Cable,Electronics ,1,8.55
+1175,22 Jan 2024,James Mokoena,Desk Lamp,Home,5,18.15
+1228,15 Jan 2024,Susan Smith,Water Bottle,Kitchen,4,11.88
+1109,2024-01-25,Susan Mahlangu,Backpack,accessories,1,40.92
+1331,2024-05-29,Robert Brown,Yoga Mat,fitness,2,24.53
+1033,01-03-2024,Linda Jones,Coffee Mug,kitchen,3,9.6
+1294,30 Mar 2024,Patricia Jones,Wireless Earbuds,ELECTRONICS,2,
+1055,03-26-2024,Thandiwe Williams,Desk Lamp,Home,2,18.53
+1043,07/03/2024,Andile Rodriguez,Sticky Notes,stationery,1,2.73
+1286,09 Apr 2024,Bongani Jones,Coffee Mug,KITCHEN,5,9.68
+1115,2024-04-14,Robert Johnson,Backpack,Accessories,1,39.96
+1240,15 Apr 2024,Thandiwe Zulu,Coffee Mug,Kitchen,2,9.75
+1031,2024-01-19,Amahle Brown,Sticky Notes,stationery,1,2.75
+1327,01 Jan 2024,Susan Brown,Office Chair,Home,2,126.59
+1159,16/05/2024,Susan Molefe,Laptop Stand,Electronics ,2,22.98
+1319,01-08-2024,Zanele Rodriguez,Yoga Mat,Fitness, 5 ,25.52
+1235,12 Jan 2024,Amahle Garcia,Laptop Stand,ELECTRONICS,5,$22.8 
+1205,28/05/2024,Mary Molefe,Backpack,accessories,2,40.87
+1133,02/01/2024,Robert Khumalo,Office Chair,HOME,1,$131.72 
+1259,21/04/2024,James Dlamini,Mechanical Keyboard,ELECTRONICS,5,47.57
+1129,2024-04-20,Naledi Jones,Mechanical Keyboard,Electronics, 5 ,47.58
+1009,2024-03-24,Jennifer Johnson,Backpack,accessories,3,38.26
+1183,01-17-2024,Susan Miller,Wireless Earbuds,ELECTRONICS,6,61.19
+1287,14/06/2024,Thandiwe Miller,Sticky Notes,Stationery ,4,2.66
+1102,01-15-2024,Naledi Nkosi,Yoga Mat,Fitness,4,25.07
+1021,11/05/2024,David Molefe,Mechanical Keyboard,Electronics ,2,46.52
+1077,2024-02-17,David Molefe,Office Chair,HOME,1,$128.7 
+1227,29 May 2024,James Zulu,Laptop Stand,Electronics ,4,21.9
+1061,04-07-2024,Zanele Rodriguez,Office Chair,home,1,$133.23 
+1147,2024-03-31,Susan Mahlangu,Wireless Mouse,Electronics, 4 ,15.78
+1298,2024-06-11,Sipho Zulu,Mechanical Keyboard,Electronics ,6,47.49
+1222,06-16-2024,Jennifer Johnson,Desk Lamp,HOME,6,18.39
+1326,19/05/2024,Robert Smith,Wireless Earbuds,Electronics, 4 ,60.24
+1138,24/02/2024,David Wilson,Desk Lamp,Home,3,18.75
+1136,04 Jun 2024,Zanele Rodriguez,Ballpoint Pen (Pack of 10),stationery,2,5.05
+1329,25/01/2024,Sipho Williams,Water Bottle,Kitchen,5,12.42
+1304,28/06/2024,Zanele Williams,Wireless Earbuds,electronics,6,$58.27 
+1100,09 Jun 2024,Thandiwe Johnson,Office Chair,Home, 5 ,131.69
+1216,2024-02-29,Patricia Mokoena,Water Bottle,kitchen,2,11.92
+1292,22/04/2024,Zanele Brown,Yoga Mat,Fitness,6,25.62
+1142,28/01/2024,Zanele Khumalo,Resistance Bands,Fitness, 5 ,15.55
+1059,13/04/2024,Amahle Jones,Yoga Mat,FITNESS ,5,26.01
+1285,2024-03-17,Robert Dlamini,Wireless Earbuds,electronics,1,57.69
+1345,06-29-2024,Andile Jones,Wireless Mouse,Electronics ,5,16.53
+1343,26/01/2024,Jennifer Rodriguez,USB-C Cable,electronics,5,$9.37 
+1139,16/05/2024,Lerato Ndlovu,Notebook,Stationery,6,3.35
+1207,08 May 2024,Mary Jones,Notebook,Stationery ,5,3.44
+1089,2024-04-13,Thandiwe Mahlangu,Yoga Mat,fitness, 4 ,25.04
+1172,16/03/2024,Mary Davis,Wireless Mouse,Electronics ,1,15.69
+1022,01 May 2024,Michael Brown,Laptop Stand,Electronics,1,21.68
+1086,06-21-2024,Andile Johnson,Yoga Mat,Fitness,2,25.37
+1171,13/06/2024,Amahle Molefe,Office Chair,home,6,125.24
+1179,09 Feb 2024,Naledi Nkosi,Water Bottle,kitchen,4,12.59
+1324,2024-04-12,Amahle Wilson,Wireless Mouse,electronics,3,$16.07 
+1322,08/02/2024,Mary Ndlovu,Notebook,stationery,6,3.47
+1317,19/06/2024,Linda Smith,Desk Lamp,home,6,17.83
+1300,25 Feb 2024,Michael Molefe,Notebook,Stationery,3,3.42
+1069,2024-03-03,David Mahlangu,Resistance Bands,fitness,2,15.09
+1349,01-26-2024,Susan Dlamini,Water Bottle,KITCHEN,2,12.79
+1337,2024-02-02,Thabo Brown,Yoga Mat,fitness,1,23.87
+1260,06-11-2024,Amahle Molefe,Wireless Mouse,Electronics ,2,16.7
+1239,17 May 2024,Jennifer Garcia,USB-C Cable,Electronics,3,8.67
+1226,20/05/2024,Andile Ndlovu,Resistance Bands,FITNESS ,2,15.52
+1135,2024-01-22,Robert Miller,Water Bottle,kitchen, 5 ,11.98
+1023,2024-06-16,Mary Khumalo,Backpack,Accessories,6,41.44
+1229,04-18-2024,James Ndlovu,Wireless Mouse,Electronics,1,15.3
+1096,18/02/2024,Andile Khumalo,Resistance Bands,fitness,2,14.86
+1266,2024-02-07,Patricia Mokoena,Ballpoint Pen (Pack of 10),stationery,3,$5.24 
+1196,11 May 2024,Kagiso Wilson,Ballpoint Pen (Pack of 10),Stationery, 4 ,5.48
+1190,02-13-2024,Andile Johnson,USB-C Cable,ELECTRONICS,1,9.39
+1095,08 Feb 2024,Thandiwe Molefe,Ballpoint Pen (Pack of 10),stationery,3,5.39
+1199,2024-04-12,Andile Ndlovu,Wireless Mouse,Electronics ,2,15.65
+1047,02-14-2024,Sipho Ndlovu,Backpack,accessories,1,38.83
+1301,05-04-2024,Mary Johnson,Water Bottle,Kitchen,1,$12.92 
+1251,02 Jan 2024,John Smith,Wireless Mouse,Electronics ,5,16.05
+1242,2024-01-11,Michael Ndlovu,Water Bottle,Kitchen,2,12.96
+1204,2024-03-25,Zanele Wilson,Office Chair,home,6,131.67
+1158,2024-04-22,Zanele Nkosi,Wireless Earbuds,Electronics ,6,62.81
+1060,22 Jan 2024,Robert Mahlangu,Wireless Mouse,ELECTRONICS, 2 ,15.8
+1243,2024-02-18,Kagiso Garcia,Laptop Stand,ELECTRONICS,6,21.35
+1042,03-12-2024,Lerato Khumalo,Yoga Mat,Fitness,6,25.08
+1150,14/06/2024,Mary Garcia,Coffee Mug,Kitchen,6,9.93
+1325,05-24-2024,Bongani Garcia,Desk Lamp,Home,4,19.63
+1306,2024-05-02,Jennifer Khumalo,USB-C Cable,ELECTRONICS,1,8.63
+1014,01-01-2024,Lerato Miller,Ballpoint Pen (Pack of 10),Stationery ,5,5.44
+1297,23/03/2024,Sipho Molefe,USB-C Cable,Electronics ,2,8.78
+1103,2024-02-14,Bongani Khumalo,USB-C Cable,electronics,5,8.99
+1340,12 Mar 2024,Robert Mokoena,Mechanical Keyboard,Electronics,2,46.85
+1332,23 Feb 2024,Susan Mahlangu,Yoga Mat,fitness,3,23.97
+1045,20/06/2024,Naledi Mokoena,Backpack,Accessories,1,41.67
+1219,06/03/2024,John Dlamini,Backpack,accessories,3,41.02
+1002,2024-04-18,John Williams,Water Bottle,KITCHEN,2,12.63
+1185,21/05/2024,Bongani Williams,Ballpoint Pen (Pack of 10),Stationery ,1,5.51
+1309,04-19-2024,Robert Garcia,Office Chair,HOME,3,126.72
+1079,13 May 2024,Amahle Mahlangu,Yoga Mat,FITNESS ,3,26.21
+1252,2024-02-15,Linda Zulu,Yoga Mat,fitness,2,25.29
+1282,02/01/2024,Michael Rodriguez,Notebook,Stationery ,6,3.35
+1293,03-08-2024,James Mahlangu,Ballpoint Pen (Pack of 10),Stationery ,1,5.11
+1202,01 May 2024,Robert Zulu,Yoga Mat,FITNESS ,2,25.27
+1026,2024-04-07,Sipho Rodriguez,USB-C Cable,Electronics ,4,9.17
+1050,2024-05-01,Amahle Mokoena,Laptop Stand,Electronics ,6,22.48
+1122,03-01-2024,John Miller,Yoga Mat,FITNESS ,,25.59
+1153,21/01/2024,Naledi Wilson,Office Chair,Home,6,128.59
+1145,15 Feb 2024,Amahle Mahlangu,Mechanical Keyboard,ELECTRONICS,6,45.79
+1136,04 Jun 2024,Zanele Rodriguez,Ballpoint Pen (Pack of 10),stationery,2,5.05
+1277,07 Jan 2024,Linda Wilson,Office Chair,HOME,4,124.61
+1284,09 Apr 2024,Andile Brown,Water Bottle,KITCHEN,3,12.45
+1210,14/03/2024,Kagiso Dlamini,Yoga Mat,fitness,4,26.07
+1098,2024-04-22,Lerato Mahlangu,Resistance Bands,Fitness,1,14.86
+1106,18/03/2024,Sipho Molefe,Resistance Bands,FITNESS ,1,15.1
+1170,01-18-2024,,Office Chair,HOME,5,$127.81 
+1341,01 Apr 2024,Thandiwe Molefe,Notebook,Stationery,3,3.5
+1028,02/05/2024,Mary Zulu,Water Bottle,Kitchen,1,$11.96 
+1081,01 Jan 2024,Amahle Molefe,USB-C Cable,Electronics , 3 ,8.8
+1223,06-29-2024,Linda Wilson,Sticky Notes,Stationery,3,2.67
+1311,02 Mar 2024,Sipho Brown,Wireless Mouse,Electronics,2,16.14
+1085,03-23-2024,John Williams,Wireless Earbuds,Electronics,2,62.01
+1221,07 Mar 2024,Jennifer Mahlangu,Wireless Mouse,Electronics,3,15.67
+1016,23 Mar 2024,John Brown,Water Bottle,Kitchen,3,12.91
+1248,05 Feb 2024,Patricia Ndlovu,USB-C Cable,Electronics,6,9.01
+1315,21/01/2024,Robert Ndlovu,Desk Lamp,HOME,3,19.0
+1305,23 Jun 2024,John Smith,Coffee Mug,KITCHEN,6,9.61
+1174,12 Apr 2024,Sipho Dlamini,Notebook,Stationery ,2,3.5
+1048,23 Apr 2024,Michael Zulu,Ballpoint Pen (Pack of 10),Stationery ,4,5.49
+1281,17/02/2024,Zanele Khumalo,Backpack,accessories,1,41.52
+1039,09/02/2024,Patricia Miller,Wireless Earbuds,Electronics , 4 ,61.41
+1083,2024-02-06,Mary Miller,Resistance Bands,fitness,3,15.48
+1342,22/03/2024,John Rodriguez,Wireless Mouse,electronics,1,15.94
+1088,15 Apr 2024,Susan Khumalo,Office Chair,Home, 5 ,124.64
+1176,03-24-2024,Susan Mahlangu,Mechanical Keyboard,Electronics ,5,43.98
+1338,11 Apr 2024,John Khumalo,Resistance Bands,fitness,6,14.77
+1054,06-12-2024,Lerato Molefe,Resistance Bands,Fitness,6,14.9
+1134,25 Feb 2024,Zanele Mahlangu,Coffee Mug,KITCHEN,3,9.8
+1164,2024-02-27,Thabo Brown,Office Chair,home,6,133.78
+1011,29 May 2024,Andile Khumalo,Wireless Earbuds,Electronics,3,62.97
+1151,04-05-2024,Sipho Mokoena,Office Chair,,3,124.17
+1018,02-12-2024,Lerato Mokoena,Coffee Mug,KITCHEN,2,10.25
+1038,01/04/2024,Jennifer Brown,Sticky Notes,Stationery ,3,2.86
+1232,2024-01-01,Susan Mahlangu,Resistance Bands,Fitness,6,14.88
+1084,04-29-2024,Sipho Rodriguez,Mechanical Keyboard,Electronics ,5,45.22
+1116,04-26-2024,Thandiwe Mokoena,Notebook,Stationery,5,3.38
+1334,06-22-2024,David Miller,Wireless Mouse,electronics,1,16.56
+1296,25/01/2024,Zanele Johnson,Resistance Bands,Fitness,3,14.43
+1246,01-05-2024,Thandiwe Mokoena,USB-C Cable,electronics,3,8.84
+1052,2024-03-04,Amahle Jones,Coffee Mug,kitchen,4,10.48
+1193,28/03/2024,Thabo Dlamini,Laptop Stand,ELECTRONICS,6,21.66
+1280,03/03/2024,Thandiwe Miller,Sticky Notes,stationery,3,2.88
+1328,2024-03-12,,USB-C Cable,Electronics,5,9.35
+1194,2024-05-23,Thabo Garcia,Coffee Mug,Kitchen,,9.94
+1253,2024-04-11,Naledi Khumalo,Desk Lamp,HOME,4,19.67
+1212,04-23-2024,Kagiso Davis,Sticky Notes,stationery,2,2.69
+1086,06-21-2024,Andile Johnson,Yoga Mat,Fitness,2,25.37
+1215,01 May 2024,Michael Wilson,Sticky Notes,Stationery ,3,2.63
+1225,2024-06-01,Lerato Mahlangu,Backpack,Accessories,5,38.3
+1198,2024-05-17,Linda Mokoena,Desk Lamp,home,2,19.18
+1025,2024-01-13,James Garcia,Mechanical Keyboard,Electronics,2,45.42
+1001,2024-01-29,David Garcia,Backpack,Accessories,2,38.4
+1056,16 Apr 2024,Thabo Ndlovu,Mechanical Keyboard,Electronics,4,44.17
+1132,2024-05-23,Bongani Rodriguez,Resistance Bands,fitness,1,15.29
+1180,06-15-2024,Jennifer Brown,Office Chair,HOME,1,129.98
+1035,11 Jun 2024,David Johnson,Mechanical Keyboard,electronics,1,43.82
+1344,04-09-2024,Patricia Miller,Water Bottle,KITCHEN,2,12.88
+1128,04-19-2024,David Nkosi,Office Chair,Home,2,129.66
+1108,05-07-2024,Jennifer Nkosi,Wireless Earbuds,electronics,2,60.72
