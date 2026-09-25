@@ -143,4 +143,62 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
 
     print(f"[TRANSFORM] Cleaning complete. {len(clean_df)} clean rows remain.")
     return clean_df
+def load(df: pd.DataFrame, db_path: str) -> None:
+    """
+    Loads the cleaned DataFrame into a SQLite database table called 'sales'.
+
+    WHY: A CSV file is fine for small amounts of data, but a relational
+    database lets us use SQL to efficiently query, filter, and aggregate
+    the data - which is the whole point of the "SQL Analysis" step later.
+    """
+    print(f"\n[LOAD] Connecting to database '{db_path}'...")
+    connection = sqlite3.connect(db_path)
+    cursor = connection.cursor()
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS sales (
+            order_id INTEGER PRIMARY KEY,
+            order_date TEXT NOT NULL,
+            customer_name TEXT NOT NULL,
+            product TEXT NOT NULL,
+            category TEXT NOT NULL,
+            quantity INTEGER NOT NULL,
+            unit_price REAL NOT NULL,
+            total_amount REAL NOT NULL
+        )
+    """)
+    print("[LOAD] Ensured 'sales' table exists.")
+
+    cursor.execute("DELETE FROM sales")
+
+    df.to_sql("sales", connection, if_exists="append", index=False)
+    connection.commit()
+
+    row_count = cursor.execute("SELECT COUNT(*) FROM sales").fetchone()[0]
+    print(f"[LOAD] Loaded {row_count} rows into the 'sales' table.")
+
+    connection.close()
+    print("[LOAD] Database connection closed.")
+
+
+def main():
+    print("=" * 60)
+    print("SALES DATA ETL PIPELINE")
+    print("=" * 60)
+
+    raw_df = extract(RAW_CSV_PATH)
+    clean_df = transform(raw_df)
+
+    clean_df.to_csv(CLEANED_CSV_PATH, index=False)
+    print(f"\n[TRANSFORM] Saved cleaned data to '{CLEANED_CSV_PATH}'.")
+
+    load(clean_df, DATABASE_PATH)
+
+    print("\n" + "=" * 60)
+    print("PIPELINE COMPLETE")
+    print("=" * 60)
+
+
+if __name__ == "__main__":
+    main()
 
